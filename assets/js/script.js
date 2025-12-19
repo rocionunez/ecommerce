@@ -16,11 +16,11 @@ const addDataToHTML = () => {
                 <div class="card-image">
                     <img src="${product.image}" alt="" class="imagen my-2">                  
                     <img src="${product.overimage}" alt="" class="imagen my-2">
-                    <p>${product.description}</p>
                     </div> 
-                <h5 class="name my-3">${product.name}</h5>
+                    <h3 class="name my-3">${product.name}</h3>
+                    <p>${product.description}</p>
                 <div class="price my-2">$${product.price}</div>
-                <button class="btn btn-success my-2 addCart">Añadir al carro</button>
+                    <button class="btn btn-success my-2 addCart">Añadir al carro</button>
                 `;
             listProductHTML.appendChild(newProduct);
         })
