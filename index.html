@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <title>ColourSodaPop</title>
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary px-5">
+            <div class="container-fluid">
+                <a class="navbar-brand" href="#">SP</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText"
+                    aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                    <span class="navbar-text">
+                        <a class="btn btn-light" data-bs-toggle="offcanvas" href="#offcanvasExample" role="button"
+                            aria-controls="offcanvasExample">
+                            <i class="fa-solid fa-basket-shopping fa-xl cart-logo-nb"><span class="cart-qty">0</span></i>
+                        </a>
+                    </span>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <h1 class="text-center my-3">ColourPop SodaPop</h1>
+        <div class="listProduct row">
+            <div class="item col">
+                <img src="assets/img/1-bbygotpeach-closed.webp" alt="" class="imagen my-2">
+                <h5 class="name my-3">BABY GOT PEACH</h5>
+                <div class="price my-2">$00,00</div>
+                <button class="btn btn-light my-2 addCart">Añadir al carro</button>
+            </div>
+        </div>
+    </div>
+        
+
+
+
+
+    <div class="offcanvas offcanvas-start" tabindex="-1" id="offcanvasExample" aria-labelledby="offcanvasExampleLabel">
+        <div class="offcanvas-header">
+            <h5 class="offcanvas-title" id="offcanvasExampleLabel">Carro de compras</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+        </div>
+        <div class="offcanvas-body">
+            <div class="listCart">
+                <div class="item">
+    
+                </div>
+            </div>
+            <button class="checkout btn btn-dark my-2">
+                PAGAR
+            </button>
+        </div>
+
+
+        <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
+        integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.min.js"
+        integrity="sha384-G/EV+4j2dNv+tEPo3++6LCgdCROaejBqfUeNjuKAiuXbjrxilcCdDz6ZAVfHWe1Y"
+        crossorigin="anonymous"></script>
+        <script src="https://kit.fontawesome.com/4cd51ffab3.js" crossorigin="anonymous"></script>
+        <script src="assets/js/script.js"></script>
+    </body>
+    </html>

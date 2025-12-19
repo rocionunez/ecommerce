@@ -1,0 +1,66 @@
+[
+    {
+        "id":1,
+        "name": "BABY GOT PEACH",
+        "price": 14.49,
+        "image":"assets/img/1-bbygotpeach-closed.webp", 
+        "description":"This pastel peach monochromatic palette is better than basic. With 9 shades and 3 different finishes, create a soft peachy look perfect for any occasion. Featuring our ultra-pigmented pressed powder formula that’s long-lasting, applies evenly and blends like a dream, one swatch is all it takes to fall in love.",
+        "overimage":"assets/img/1-bbygotpeach-crushed.webp"
+    },
+    {
+        "id":2,
+        "name": "BLOWIN' SMOKE",
+        "price":15.49,
+        "image":"assets/img/2-BlowinSmoke-Closed.webp",
+        "description":"This grayscale palette is a glam smokey eye lover’s dream. With 3 glitzy Metallics and 6 blendable Matte eyeshadows, create the easiest smokey eyes ever. Featuring our ultra-pigmented pressed powder formula that’s long-lasting, applies evenly and blends like a dream.",
+        "overimage":"assets/img/2-blowinsmoke-crushed.jpg"
+    },
+    {
+        "id":3,
+        "name": "BLUE MOON",
+        "price":15.99,
+        "image":"assets/img/3-BlueMoon-closed.webp",
+        "description":"This blue monochromatic eyeshadow palette are what dreams are made of. With its unique range of blue shadows in Matte, Metallic, and Duo Chrome finishes, this palette gives you the creative edge to make any look you want. Featuring our ultra-pigmented pressed powder formula that’s long-lasting, applies evenly and blends like a dream.",
+        "overimage":"assets/img/3-bluemoon-crushed.webp"
+        },
+    {
+        "id":4,
+        "name": "GOING COCONUTS",
+        "price":15.49,
+        "image":"assets/img/4-GoingCoconuts-Closed.webp",
+        "description":"Go loco for this toasted neutral 9 pan palette, perfect for your every day look. This super wearable palette is cute, compact, and ready for any look. Featuring our ultra-pigmented pressed powder formula in Matte, Metallic and Matte Sparkle finishes that’s long-lasting, applies evenly and blends like a dream.",
+        "overimage":"assets/img/4-goingcoconuts-crushed.webp"
+    },
+    {
+        "id":5,
+        "name": "GONE METAL",
+        "price":14.49,
+        "image":"assets/img/5-GoneMetal-Closed.webp",
+        "description":"Go loco for this toasted neutral 9 pan palette, perfect for your every day look. This super wearable palette is cute, compact, and ready for any look. Featuring our ultra-pigmented pressed powder formula in Matte, Metallic and Matte Sparkle finishes that’s long-lasting, applies evenly and blends like a dream.",
+        "overimage":"assets/img/5-gonemetal-crushed.jpg"
+    },
+    {
+        "id":6,
+        "name": "IT'S MY PLEASURE",
+        "price":15.09,
+        "image":"assets/img/6-tsMyPleasure-Closed.webp",
+        "description":"This purple monochromatic palette is a shadow lover’s dream. Cool lavender, berries, and eggplant in Mattes and Metallics create a palette that’s uniquely its own. Featuring our ultra-pigmented, blendable pressed powder formula that’s long-lasting & applies evenly. Wear a wash of lavender or smoke out your look with rich violets, wear it how you want it.",
+        "overimage":"assets/img/6-itsmypleasure-crushed.webp"
+    },
+    {
+        "id":7,
+        "name": "JUST MY LUCK",
+        "price":14.99,
+        "image":"assets/img/7-JustMyLuck-Closed.webp",
+        "description":"She’s so lucky, she’ll be the star of your makeup collection. This green monochromatic palette features 9 Matte and Metallic shadows in every shade of green you can think of. Featuring our ultra-pigmented, blendable pressed powder formula that’s long-lasting & applies evenly. Bring on the bold chartreuse looks or add an olive touch to your smokey eye.",
+        "overimage":"assets/img/7-justmyluck-crushed.webp"
+    },
+    {
+        "id":8,
+        "name": "WILD CHILD",
+        "price":15.49,
+        "image":"assets/img/8-WildChild-Closed.webp",
+        "description":"Be herd to get in our new 9-pan monochromatic palette with perfect rich chocolate browns in Matte, Metallic, Matte Sparkle and Glitter finishes. Featuring our ultra-pigmented pressed powder formula that’s long-lasting, applies evenly and blends like a dream.",
+        "overimage":"assets/img/8-wildchild-crushed.webp"
+    }
+]
